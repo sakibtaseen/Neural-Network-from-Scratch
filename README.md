@@ -1,5 +1,5 @@
 # Neural-Network-from-Scratch
-### Here we build a Neural Network from Scratch in Python using Numpy
+### Here a Neural Network was built from scratch in Python using Numpy
 
 
 #### Some info regarding this project:
